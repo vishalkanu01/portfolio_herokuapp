@@ -1,0 +1,63 @@
+{
+	"landing": {
+		"firstName": "Vishal",
+		"lastName": "Kanu",
+		"phoneNumber": "+977-9865018059",
+		"bio": " I am a computer engineering student studying in School Of Engineering, central campus of Pokhara University situated in Pokhara Valley, Nepal. I am an Android developer and mostly work with Flutter and Firebase. I have completed some flutter projects which can be found in my github account. As well as, I am doing some projects on Python. ",
+    "email": "vishalkanu01@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vishal-kanu-57844b19a",
+		"github": "https://github.com/vishalkanu01",
+                "facebook": "https://www.facebook.com/vishal.kanu.7"
+	},
+	"experience": [
+               {
+			"position": "Marketing officer",
+			"organization": "Waves education consultancy",
+			"aboutWork": "Advertisement of the company in digital world.",
+			"fromDate": "July 2018",
+			"toDate": "Present"
+		},
+		
+		{
+			"position": "Popularsys Techincal advisor",
+				"organization": "popularsys",
+				"aboutWork": "Tackling the hardware/software issues.",
+				"fromDate": "September 2019",
+				"toDate": "Present"
+		},
+		{
+			"position": "Treasurer",
+			"organization": "P.U Tech club",
+			"aboutWork": "Basically conducting workshop and Tech-discussion on some interesting platform for students on Campus.",
+			"fromDate": "November 2019",
+			"toDate": "Present"
+		}
+	],
+	"education": [{
+			"university": "School of Engineering, pokhara",
+			"degree": "Bachelor of Computer Engineering",
+		
+			"fromDate": "August 2019",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "C/C++"
+		},
+		{
+			"name": "Flutter/Dart"
+		},
+		{
+			"name": "Python"
+		}
+		
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a android developer, I enjoy most of my time being outdoors and like to play guitar on some occasion." ,
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the back-end web or android development world."
+	},
+	"awards": [{
+			"awardDetail": "Nothing to brag about."
+		}
+	]
+}
